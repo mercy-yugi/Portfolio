@@ -1,0 +1,376 @@
+*{
+    background-color: rgb(40,48,49);
+}
+.fa-laptop-code{
+    color: red;  
+}
+span{
+    color: white;
+    padding-left: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+ul {
+    display: flex;
+    color: white;
+   gap: 3em;
+list-style-type: none;
+margin-top: 5%;
+}
+ul li :hover{
+    background-color: black;
+    padding: 10px;
+    height: 20px;
+    border-radius: 20px;
+    overflow-x: hidden;
+}
+.home{
+    margin-left: 15%;
+}
+.button1{
+    color: white;
+    background-color: red;
+    padding: 1%;
+    border-radius: 30px;
+    margin-left: 5%;
+}
+.container1{
+    float: left;
+}
+.sectionone{
+  color: white;  
+  margin-left: 20%;
+  
+}
+.sectionone span{
+    color: red;
+}
+.sectiontwo{
+    width: 350px;
+    height: 350px;
+    background-color:black;
+    border-radius: 10px;
+    margin-left: 130%;
+    margin-top: -75%;
+}
+#wall img{
+    margin-left: 110%;
+    margin-top: -50%;
+    background-color: rgb(27, 25, 25);
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
+hr{
+    margin-top: 45%;
+    width: 90%;
+}
+h5{
+    font-size: larger;
+}
+h2{
+    font-size: 330%;
+}
+h3{
+    font-size: x-large;
+}
+/* .social{
+    
+} */
+.fa-facebook-f{
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: red;
+}
+.fa-twitter{
+    background-color: black;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+    color: red;
+}
+.fa-linkedin-in{
+    background-color: black;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+    color: red;
+}
+.fa-github{
+    background-color: black;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+    color: red;
+    /* box-shadow: 10px 5px rgb(236, 230, 230); */
+}
+#title{
+    color: red;
+    margin-left: 9%;
+    margin-top: 5%;
+
+}
+.services{
+    color: whitesmoke;
+    margin-left: 9%;
+
+}
+.services h2{
+    margin-top: 1px;
+}
+.col1{
+    display: flex;
+    gap: 3em;
+    
+}
+.one{
+    width: 300px;
+    height: 240px;
+    background-color:rgb(17, 16, 16);
+    border-radius: 5%;
+}
+.fa-laptop{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: red;
+    background-color: rgb(17, 16, 16);
+}
+.fa-masks-theater{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: red;
+    background-color: rgb(17, 16, 16);
+}
+.fa-mobile{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: red;
+    background-color: rgb(17, 16, 16);
+}
+.fa-book{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: red;
+    background-color: rgb(17, 16, 16);
+}
+.fa-bars-progress{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: red;
+    background-color: rgb(17, 16, 16);
+}
+.fa-chart-line{
+    margin-left: 15%;
+    margin-top: 20%;
+    color: red;
+    background-color: rgb(17, 16, 16);
+}
+.two{
+    width: 300px;
+    height: 240px;
+    background-color: rgb(17, 16, 16);
+    border-radius: 5%;
+}
+.three{
+    width: 300px;
+    height: 240px;
+    background-color: rgb(17, 16, 16);
+    border-radius: 5%;
+}
+.col2{
+    display: flex;
+    gap: 3em;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.services h3{
+    background-color: rgb(17, 16, 16);
+    font-size: larger;
+    margin-left: 15%;
+}
+p{
+    background-color:rgb(17, 16, 16);
+    font-size: small;
+    margin-left: 15%;
+}
+
+.skills{
+    margin-left: 30%;
+    margin-top: 4%;
+}
+.tech{
+    margin-left: 8%;
+}
+.first{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:5%;
+    margin-left: -40%;
+}
+.f1{
+    background-color: rgb(86, 87, 86);
+    width: 15%;
+    height: 60px;
+    border-radius: 50px;
+}
+.second{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:5%;
+    margin-left: -40%;
+}
+.third{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:5%;
+    margin-left: -40%;
+}
+.fourth{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:5%;
+    margin-left: -40%;
+}
+.fifth{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:5%;
+    margin-left: -40%;
+}
+.services hr{
+    margin-top: -1%;
+    margin-left: 1%;
+}
+#num{
+    background-color: rgb(86, 87, 86);  
+    margin-left: 130%;
+    color: white;
+}
+.skills h2{
+    color: white;
+    margin-left: -29%;
+    margin-top: -0.8%;
+}
+.skills #title{
+margin-left: -2%;
+}
+.soft{
+    margin-left: 62%;
+    margin-top: -48.5%;
+}
+.firsts{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:14%;
+    margin-left: -40%;
+}
+.f1{
+    background-color: rgb(86, 87, 86);
+    width: 15%;
+    height: 60px;
+    border-radius: 50px;
+}
+.seconds{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:14%;
+    margin-left: -40%;
+}
+.thirds{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:14%;
+    margin-left: -40%;
+}
+.fourths{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:14%;
+    margin-left: -40%;
+}
+.fifths{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(24, 13, 13);
+    border-radius: 50px;
+    margin-bottom:14%;
+    margin-left: -40%;
+}
+.tech h5{
+    color: red;
+    margin-left: -37%;
+}
+.soft h5{
+    color: red;
+    margin-left: -30%;
+    /* margin-top: -50%; */
+}
+.skills hr{
+    margin-top: -1%;
+    margin-left: -33%;
+    width: 120%;
+}
+.projects{
+    margin-left: 6%;
+}
+.projects h5{
+    color: red;
+    text-align: center;
+}
+.projects h2{
+    color: white;
+    text-align: center;
+    margin-top: -3.5%;
+}
+.moja img{
+ height: 190px;
+ width: 310px;
+ border-radius: 10px;
+}
+.mbili img{
+    height: 190px;
+    width: 310px;
+    border-radius: 10px;
+}
+.tatu img{
+    height: 190px;
+    width: 310px;
+    border-radius: 10px;
+}
+#link{
+    color: white;
+}
+.projects hr{
+    margin-top: 4%;
+    margin-left: 2%;
+}
+.btn{
+    background-color: rgb(17, 16, 16);
+    padding: 10px 22px;
+    color: white;
+    margin-left: 39%;
+    border-style: none;
+    border-radius: 10px;
+}
+.fa-arrow-right-long{
+    color: white;
+}
