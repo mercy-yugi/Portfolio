@@ -374,3 +374,13 @@ margin-left: -2%;
 .fa-arrow-right-long{
     color: white;
 }
+.career h5{
+    color: red;
+    text-align: center;
+}
+.career h2{
+    color: white;
+    text-align: center;
+    margin-top: -3%;
+/*  */
+}
